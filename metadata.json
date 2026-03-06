@@ -1,0 +1,5 @@
+{
+  "name": "FitTrack Pro",
+  "description": "A comprehensive fitness application with personalized routines, user progress tracking, and an administrative dashboard for workout management.",
+  "requestFramePermissions": []
+}
